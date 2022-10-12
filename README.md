@@ -1,5 +1,7 @@
 # sorting-algorithm-animator
 
+* MUST USE JDK 18 *
+
 Zack Martin
 July 2022 - Aug 2022
 
